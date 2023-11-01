@@ -131,7 +131,7 @@ namespace App4a_Illia_Karmazin_
             Controls.Add(textBox1);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "App";
+            Text = "CSV to HTML";
             ResumeLayout(false);
             PerformLayout();
         }
